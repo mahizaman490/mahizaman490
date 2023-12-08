@@ -1,6 +1,6 @@
 
 
-[![An old rock in the desert](/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers")](https://www.canva.com/design/DAF2aqQqVDQ/bUOmf2Lyo1pz5iCTSVjBkg/view?utm_content=DAF2aqQqVDQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+[![An old rock in the desert]([/assets/images/shiprock.jpg "Shiprock, New Mexico by Beau Rogers"](https://www.canva.com/design/DAF2aqQqVDQ/bUOmf2Lyo1pz5iCTSVjBkg/view?utm_content=DAF2aqQqVDQ&utm_campaign=designshare&utm_medium=link&utm_source=editor))](https://www.canva.com/design/DAF2aqQqVDQ/bUOmf2Lyo1pz5iCTSVjBkg/view?utm_content=DAF2aqQqVDQ&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 
 
 
