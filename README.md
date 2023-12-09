@@ -2,15 +2,6 @@
 <img src="https://i.ibb.co/p1Jrvtz/Project-Timeline-page-0001.jpg" alt="Alt text">
 
 
-<div align="center">
-
-# Fatematuz Jnannat Mahi
-
-#### 👩‍💻 **MERN Stack Developer**
-
-
-</div>
-
 
 ## Current Focus and Engagement
 🔭 I’m currently working on: Exciting MERN stack projects to enhance my skills and showcase my abilities.
