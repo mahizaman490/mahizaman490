@@ -1,10 +1,8 @@
 
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
 
 
 
-
-
+<mahizaman490@.com>
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
