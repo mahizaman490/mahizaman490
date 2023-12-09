@@ -19,7 +19,7 @@
 
 ⚡ Fun fact: I can recite the entire React documentation from memory!
 
-# my skills
+## my skills
 
 
 <p align="center">
@@ -35,11 +35,19 @@
 </p>
 
 
-##My GitHub Activity Streak
+## My GitHub Activity Streak
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mahizaman490&theme=dark" alt="GitHub Streak" />
   </a>
 </div>
+
+## Pinned Projects
+
+[![Assignment 12](https://github-readme-stats.vercel.app/api/pin/?username=mahizaman490&repo=assignment-12-client-side-)](https://github.com/mahizaman490/assignment-12-client-side-)
+
+[![Assignment 11](https://github-readme-stats.vercel.app/api/pin/?username=mahizaman490&repo=assignment-11-client-side-)](https://github.com/mahizaman490/assignment-11-client-side-)
+
+[![Assignment 10](https://github-readme-stats.vercel.app/api/pin/?username=mahizaman490&repo=assignment-10-client-side-)](https://github.com/mahizaman490/assignment-10-client-side-)
 
 
