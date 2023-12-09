@@ -42,12 +42,4 @@
   </a>
 </div>
 
-## Pinned Projects
-
-[![Assignment 12](https://github-readme-stats.vercel.app/api/pin/?username=mahizaman490&repo=assignment-12-client-side-)](https://github.com/mahizaman490/assignment-12-client-side-)
-
-[![Assignment 11](https://github-readme-stats.vercel.app/api/pin/?username=mahizaman490&repo=assignment-11-client-side-)](https://github.com/mahizaman490/assignment-11-client-side-)
-
-[![Assignment 10](https://github-readme-stats.vercel.app/api/pin/?username=mahizaman490&repo=assignment-10-client-side-)](https://github.com/mahizaman490/assignment-10-client-side-)
-
 
