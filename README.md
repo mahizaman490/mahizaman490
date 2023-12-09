@@ -18,7 +18,7 @@
 
 ### ⚡ Fun fact: I can recite the entire React documentation from memory!
 
-## my skills
+## 💻my skills
 
 
 <p align="center">
