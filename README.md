@@ -8,9 +8,6 @@
 
 #### 👩‍💻 **MERN Stack Developer**
 
-Passionate about crafting web applications with the MERN (MongoDB, Express.js, React, Node.js) stack. Turning ideas into functional and efficient code. Constantly learning and exploring new technologies to enhance development skills.
-
-Let's build something amazing together! 🚀
 
 </div>
 
