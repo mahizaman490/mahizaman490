@@ -34,7 +34,7 @@
 </p>
 
 
-## 🔥My GitHub Activity Streak
+##  🔥My GitHub Activity Streak
 <div align="center">
   <a href="https://git.io/streak-stats">
     <img src="https://github-readme-streak-stats.herokuapp.com?user=mahizaman490&theme=dark" alt="GitHub Streak" width="800" />
@@ -48,7 +48,7 @@
 
 
 
-## Summary of My Profile
+##  📚Summary of My Profile
 
 <div align="center">
 
