@@ -1,8 +1,5 @@
 
-![Alt text]([url_to_image](https://i.ibb.co/p1Jrvtz/Project-Timeline-page-0001.jpg))
-
-
-
+<img src="https://i.ibb.co/p1Jrvtz/Project-Timeline-page-0001.jpg" alt="Alt text">
 
 
 🔭 I’m currently working on: Exciting MERN stack projects to enhance my skills and showcase my abilities.
