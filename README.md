@@ -3,7 +3,7 @@
 
 
 
-## Current Focus and Engagement
+## 🎯Current Focus and Engagement
 ### 🔭 I’m currently working on: Exciting MERN stack projects to enhance my skills and showcase my abilities.
 
 ### 🌱I’m currently learning: Advanced techniques in React.js, Node.js, and MongoDB to stay at the forefront of web development.
