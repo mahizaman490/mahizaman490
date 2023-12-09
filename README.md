@@ -38,8 +38,30 @@
 ## My GitHub Activity Streak
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mahizaman490&theme=dark" alt="GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=mahizaman490&theme=dark" alt="GitHub Streak" width="800" />
   </a>
 </div>
 
+
+
+
+
+
+
+
+## Summary of My Profile
+
+<div align="center">
+
+
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mahizaman490&theme=dracula" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mahizaman490&theme=dracula" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mahizaman490&theme=dracula" width="400"/>
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mahizaman490&theme=dracula&utcOffset=8" width="400"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mahizaman490&theme=dracula" width="900"/>
+</div>
 
